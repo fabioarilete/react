@@ -1,22 +1,26 @@
 {
   "projects": [
     {
-      "name": "Projeto Fábio Henrique",
-      "budget": "6000",
+      "name": "React",
+      "budget": "10000",
       "category": {
-        "id": "4",
-        "name": "Planejamento"
+        "id": "1",
+        "name": "Infra"
       },
-      "cost": 0,
-      "services": [],
+      "cost": null,
+      "services": [
+        {
+          "id": "d9a7a404-005d-4a06-8d3d-902d72ba0f65"
+        }
+      ],
       "id": 1
     },
     {
-      "name": "Projeto x",
-      "budget": "23000",
+      "name": "Novo Projeto",
+      "budget": "50000",
       "category": {
-        "id": "3",
-        "name": "Design"
+        "id": "4",
+        "name": "Planejamento"
       },
       "cost": 0,
       "services": [],
